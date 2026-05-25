@@ -1,0 +1,25 @@
+{
+  "n_corpus": 665,
+  "n_fulltext_ok": 549,
+  "n_metric_fulltext": 439,
+  "n_metric_abstract": 106,
+  "pct_no_metric_ft": 34.0,
+  "pct_no_metric_ab": 84.1,
+  "tier_dist": {
+    "E": 183,
+    "D": 24,
+    "B": 10,
+    "C": 9
+  },
+  "pct_any_misuse": 25.5,
+  "paradigms": {
+    "classical": 431,
+    "crowdsourced": 173,
+    "llm_annotator": 61
+  },
+  "languages": {
+    "english_or_unknown": 443,
+    "non_english_mono": 161,
+    "multilingual": 61
+  }
+}
